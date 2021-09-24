@@ -22,7 +22,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/87346208/134727789-0d822b71-a641-4029-994a-229f8f1a5593.gif)
+
+![](https://i.imgur.com/hhTiBpE.gif)
 
 
 # twitter_ios_starter
